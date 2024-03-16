@@ -1,7 +1,8 @@
 
-# [Sprintnaam] - [Deeltaak-naam]
 
-[Beschrijving van de deeltaak]
+# Progressive Enhancement
+
+Ontwerp en bouw interfaces in lagen
 
 ## Context
 
