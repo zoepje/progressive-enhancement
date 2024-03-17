@@ -6,13 +6,13 @@ Ontwerp en bouw interfaces in lagen
 
 ## Context
 
-Deze deeltaak hoort bij sprint # [Sprintnaam]. 
-Dit is een deeltaak die je [individueel / in een team] uitvoert.
+Deze deeltaak hoort bij sprint 9 "The Web is for Everyone". Dit is een deeltaak die je individueel uitvoert.
 
-In de workshop [[Workshopnaam](link)] wordt behandeld ... 
+In het college _S09W2-02-Progressive-Enhancent wordt behandeld wat Progressive Enhancement is.
 
 Deze deeltaak hoort bij de leertaak:
-- [[leertaak](link)]
+- [the-web-is-for-everyone-interactive-functionality](https://github.com/fdnd-task/the-web-is-for-everyone-interactive-functionality)
+
 
 
 ## Doel van deze opdracht
