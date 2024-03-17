@@ -17,89 +17,65 @@ Deze deeltaak hoort bij de leertaak:
 
 ## Doel van deze opdracht
 
-Je leert hoe je ... 
+Één van de mooiste [principes](https://www.w3.org/DesignIssues/Principles.html) van het web is dat iedereen met een computer en een browser het web kan gebruiken. [Het web is voor iedereen](https://www.youtube.com/watch?v=UMNFehJIi0E). 
+
+Maar het web is geen gecontroleerde (programmeer) omgeving, je kan er gerust van uit gaan dat niemand precies hetzelfde te zien krijgt als wat jij in je browser ziet. Er zijn technische beperkingen, zoals afmetingen van de browser, type van de browser, versie van de browser, combinatie van browser extensies, grootte van het apparaat, manier van interactie, kwaliteit van de hardware, kwaliteit van het netwerk en er zijn mensen, allemaal verschillende mensen ...
+
+Het doel van deze opdracht is te leren hoe je een interface kan ontwerpen en maken met behulp van _Progressive Enhancement_ zodat het voor iedereen toegankelijk is.
 
 
 ## Werkwijze
 
-![Opdrachtomschrijving](opdrachtomschrijving.png)
+Voor deze opdracht ga je een aantal UI componenten ontwerpen en bouwen in verschillende lagen, volgens het principe van _Progressive Enhancement_. 
 
-*Hoe pak je dit aan, in welke fases van de DLC*
+### Progressive enhancement
+Progressive Enhancement is een _(coding) strategy_ waarmee je er voor kan zorgen dat je website het altijd doet. 
 
-Deze opdracht gaat over deze fases van de DLC: [analyseren](#analyseren), [ontwerpen](#ontwerpen), [bouwen](#bouwen), [integreren](#integreren) en [testen](#testen)
+1. Eerst bouw je de _core functionality_ van je website in HTML.
+2. Daarna voeg je CSS toe voor feedback voor de gebruiker en om de huisstijl toe te passen.
+3. Tot slot voeg je CSS en client-side JS toe om de _User Experience_ te verbeteren.
 
-### Analyseren
-Uitleg..
-
-#### Aanpak
-
-1. ...
-2. ...
-
-#### Materiaal 
-
-- [bron]
-- [bron]
-
-### Ontwerpen
-Uitleg..
-
-#### Aanpak
-
-1. ...
-2. ...
-
-#### Materiaal 
-
-- [bron]
-- [bron]
+![image](https://user-images.githubusercontent.com/1391509/226204781-5594ea1b-56c3-45ac-87d4-56dd25e35e58.png)
+<br><small>_The Chocolatey Layers of Progressive Enhancement_</small>
 
 
-### Bouwen
-Uitleg..
+### UI componenten
 
-#### Aanpak
+Maak minimaal 3 van onderstaane interfaces: 
 
-1. ...
-2. ...
+- FAQ uitklappers
+- Image carrousel
+- Audio player
+- Hamburger menu
+- Video player
+- File image upload (preview)
+- Switch control (nieuwe input type checkbox switch)
+- Combo box (datalist)
+- Modal (popover/dialog)
+- Tabbed navigatie
 
-#### Materiaal 
 
-- [bron]
-- [bron]
+## Aanpak
 
-### Integreren
-Uitleg..
+1. core functionaliteit beschrijven
+2. HTML moeten schrijven
+3. evt CSS met @supports schrijven
+4. evt JS met feature detect voor schrijven.
+5. testen op meerdere devices/browsers
+6. beschrijven wat acceptabel is
 
-#### Aanpak
 
-1. ...
-2. ...
+### Bronnen bouwfase
 
-#### Materiaal 
+* [Understanding Progressive Enhancement](https://alistapart.com/article/understandingprogressiveenhancement/)
+* [The power of progressive enhancement](https://archive.hankchizljaw.com/wrote/the-power-of-progressive-enhancement/)
+* [The Role of Enhancement in Web Design](https://www.nngroup.com/articles/enhancement/)
 
-- [bron]
-- [bron]
-- 
-### Testen
-Uitleg..
 
-#### Aanpak
 
-1. ...
-2. ...
 
-#### Materiaal 
-
-- [bron]
-- [bron]
 
 ## Criteria
-
-Focus sprint # - De focus van deze sprint ligt op ...
-
-Deze deeltaak hoort bij het gedragscriterium:  
-...
 
 Deze opdracht is done als:
 
