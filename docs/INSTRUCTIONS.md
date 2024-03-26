@@ -46,23 +46,21 @@ Voor deze opdracht ga je een aantal UI componenten ontwerpen en bouwen in versch
 
 Maak minimaal 3 van onderstaande user interface componenten: 
 
-- Audio player met volumeregelaar
-- Carrousel met quotes
-- Combo box
-- File image upload met preview
-- Lijst met veelgestelde vragen
-- Mobiel menu
-- Rating component
+- Veelgestelde vragen
 - Switch control
-- Tabblad
-- Video player met scrubber
+- Mobiel menu
+- Rating
+- Favorieten picker
+- Carrousel
+- Tabbladen
+- File upload met preview
 
 
 ## Aanpak (per component)
 
-1. Beschrijf in eigen woorden wat dit component is, en wat eigenlijk de _core functionaliteit_ is.
+1. Beschrijf in eigen woorden wat dit component is, en wat eigenlijk de _core functionaliteit_ is. Gebruik de demo video om een idee te krijgen.
 2. Schets het component, en de interactie.
-3. Laag 1: Onderzoek welke HTML je voor de _core functionaliteit_ nodig hebt, en maak hiervan een breakdownschets (gebruik de hints in de code die klaarstaat, MDN en CanIUse).
+3. Laag 1: Onderzoek welke HTML je voor de _core functionaliteit_ nodig hebt, maak hiervan een breakdownschets, en schrijf je HTML (gebruik de hints en content in de code die klaarstaat, MDN en CanIUse).
 4. Test deze HTML versie op verschillende browsers en devices.
 5. Laag 2: Voeg CSS toe, aan de hand van MDN, CanIUse en `@supports`.
 6. Test deze “enhanced” versie op verschillende browsers en devices.
