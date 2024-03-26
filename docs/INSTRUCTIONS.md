@@ -52,8 +52,8 @@ Maak minimaal 3 van onderstaande user interface componenten:
 - Rating
 - Favorieten picker
 - Carrousel
-- Tabbladen
 - File upload met preview
+- Tabbladen
 
 
 ## Aanpak (per component)
