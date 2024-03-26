@@ -31,12 +31,13 @@ Voor deze opdracht ga je een aantal UI componenten ontwerpen en bouwen in versch
 ### Progressive enhancement
 Progressive Enhancement is een _(coding) strategy_ waarmee je er voor kan zorgen dat je website het altijd doet. 
 
-1. Eerst bouw je de _core functionality_ van je website in HTML.
-2. Daarna voeg je CSS toe voor feedback voor de gebruiker en om de huisstijl toe te passen.
-3. Tot slot voeg je CSS en client-side JS toe om de _User Experience_ te verbeteren.
+1. Eerst bouw je de _core functionality_ van je website in HTML, en zo nodig met server-side rendering. De _content layer_.
+2. Daarna voeg je CSS toe voor feedback voor de gebruiker en om de huisstijl toe te passen, de _presentation layer_.
+3. Tot slot voeg je client-side scriptint toe om de _User Experience_ te verbeteren met CSS en JS.
 
-![image](https://user-images.githubusercontent.com/1391509/226204781-5594ea1b-56c3-45ac-87d4-56dd25e35e58.png)
-<br><small>_The Chocolatey Layers of Progressive Enhancement_</small>
+![image](https://github.com/fdnd-task/progressive-enhancement/assets/1391509/f6d0490b-6748-4fc8-8a63-d33d2f2d0b68)
+<br><small>_The skateboard may be a little slower, but it doesn’t stop the user getting to where they want to go. So, if the user’s browser doesn’t support JavaScript or modern CSS then it doesn’t break_ - Andy Bell
+</small>
 
 
 ### UI componenten
