@@ -28,7 +28,7 @@ Progressive Enhancement is een _(coding) strategy_ waarmee je er voor kan zorgen
 
 1. Eerst bouw je de _core functionality_ van je website in HTML, zo nodig met server-side rendering. De _content layer_.
 2. Daarna voeg je CSS toe voor feedback voor de gebruiker en om de huisstijl toe te passen, de _presentation layer_.
-3. Tot slot voeg je client-side scripting toe om de _User Experience_ te verbeteren met CSS en JS.
+3. Tot slot voeg je met CSS en JS extra enhancements toe om de _User Experience_ te verbeteren.
 
 ![image](https://github.com/fdnd-task/progressive-enhancement/assets/1391509/f6d0490b-6748-4fc8-8a63-d33d2f2d0b68)
 <br><small>_The skateboard may be a little slower, but it doesn’t stop the user getting to where they want to go. So, if the user’s browser doesn’t support JavaScript or modern CSS then it doesn’t break_ - Andy Bell
@@ -44,40 +44,40 @@ Voor deze opdracht ga je een aantal UI componenten ontwerpen en bouwen in versch
 
 ### UI componenten
 
-Maak minimaal 3 van onderstaane interfaces: 
+Maak minimaal 3 van onderstaande user interface componenten: 
 
-- FAQ uitklappers
-- Image carrousel
-- Audio player
-- Hamburger menu
-- Video player
-- File image upload (preview)
-- Switch control (nieuwe input type checkbox switch)
-- Combo box (datalist)
-- Modal (popover/dialog)
-- Tabbed navigatie
+- Audio player met volumeregelaar
+- Carrousel met quotes
+- Combo box
+- File image upload met preview
+- Lijst met veelgestelde vragen
+- Mobiel menu
+- Rating component
+- Switch control
+- Tabblad
+- Video player met scrubber
 
 
-## Aanpak
+## Aanpak (per component)
 
-1. core functionaliteit beschrijven
-2. HTML moeten schrijven
-3. evt CSS met @supports schrijven
-4. evt JS met feature detect voor schrijven.
-5. testen op meerdere devices/browsers
-6. beschrijven wat acceptabel is
+1. Beschrijf in eigen woorden wat dit component is, en wat eigenlijk de _core functionaliteit_ is.
+2. Schets het component, en de interactie.
+3. Laag 1: Onderzoek welke HTML je voor de _core functionaliteit_ nodig hebt, en maak hiervan een breakdownschets (gebruik de hints in de code die klaarstaat, MDN en CanIUse).
+4. Test deze HTML versie op verschillende browsers en devices.
+5. Laag 2: Voeg CSS toe, aan de hand van MDN, CanIUse en `@supports`.
+6. Test deze “enhanced” versie op verschillende browsers en devices.
+7. Laag 3 en verder: Voeg eventueel meer CSS & JS toe, aan de hand van MDN, CanIUse, `@supports` en feature detection.
+8. Test deze “enhanced” versie(s) op verschillende browsers en devices.
+9. Documenteer je experiment.
 
 
 ### Bronnen bouwfase
 
-* [Understanding Progressive Enhancement](https://alistapart.com/article/understandingprogressiveenhancement/)
-* [The power of progressive enhancement](https://archive.hankchizljaw.com/wrote/the-power-of-progressive-enhancement/)
-<!--* [An exercise in progressive enhancement](https://chenhuijing.com/blog/an-exercise-in-progressive-enhancement/)-->
+* [Can I Use...](https://caniuse.com/)
 * [Styling & Customizing File Inputs the Smart Way](https://tympanus.net/codrops/2015/09/15/styling-customizing-file-inputs-smart-way/)
-* [It All Starts with a Humble <textarea>](https://24ways.org/2019/it-all-starts-with-a-humble-textarea/)
+* [It All Starts with a Humble `<textarea>`](https://24ways.org/2019/it-all-starts-with-a-humble-textarea/)
 * [Making a Better Custom Select Element](https://24ways.org/2019/making-a-better-custom-select-element/)
-
-
+* [Progressive Enhancement and Data Visualizations](https://css-tricks.com/progressive-enhancement-data-visualizations/)
 
 
 
@@ -85,7 +85,7 @@ Maak minimaal 3 van onderstaane interfaces:
 
 Deze opdracht is done als:
 
-- [ ] ...
-- [ ] ...
-- [ ] ...
-
+- [ ] Je hebt minstens drie interactie componenten uitgewerkt en gedocumenteerd
+- [ ] De breakdownschetsen zijn opgenomen in je wiki
+- [ ] Bij elke schets staat een korte uitleg van de code
+- [ ] Je werk is te bekijken via GitHub Pages
