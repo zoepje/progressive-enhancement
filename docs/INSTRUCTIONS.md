@@ -72,7 +72,10 @@ Maak minimaal 3 van onderstaane interfaces:
 
 * [Understanding Progressive Enhancement](https://alistapart.com/article/understandingprogressiveenhancement/)
 * [The power of progressive enhancement](https://archive.hankchizljaw.com/wrote/the-power-of-progressive-enhancement/)
-* [The Role of Enhancement in Web Design](https://www.nngroup.com/articles/enhancement/)
+<!--* [An exercise in progressive enhancement](https://chenhuijing.com/blog/an-exercise-in-progressive-enhancement/)-->
+* [Styling & Customizing File Inputs the Smart Way](https://tympanus.net/codrops/2015/09/15/styling-customizing-file-inputs-smart-way/)
+* [It All Starts with a Humble <textarea>](https://24ways.org/2019/it-all-starts-with-a-humble-textarea/)
+* [Making a Better Custom Select Element](https://24ways.org/2019/making-a-better-custom-select-element/)
 
 
 
