@@ -23,11 +23,6 @@ Maar het web is geen gecontroleerde (programmeer) omgeving, je kan er gerust van
 
 Het doel van deze opdracht is te leren hoe je een interface kan ontwerpen en maken met behulp van _Progressive Enhancement_ zodat het voor iedereen toegankelijk is.
 
-
-## Werkwijze
-
-Voor deze opdracht ga je een aantal UI componenten ontwerpen en bouwen in verschillende lagen, volgens het principe van _Progressive Enhancement_. 
-
 ### Progressive enhancement
 Progressive Enhancement is een _(coding) strategy_ waarmee je er voor kan zorgen dat je website het altijd doet. 
 
@@ -38,6 +33,13 @@ Progressive Enhancement is een _(coding) strategy_ waarmee je er voor kan zorgen
 ![image](https://github.com/fdnd-task/progressive-enhancement/assets/1391509/f6d0490b-6748-4fc8-8a63-d33d2f2d0b68)
 <br><small>_The skateboard may be a little slower, but it doesn’t stop the user getting to where they want to go. So, if the user’s browser doesn’t support JavaScript or modern CSS then it doesn’t break_ - Andy Bell
 </small>
+
+
+
+## Werkwijze
+
+Voor deze opdracht ga je een aantal UI componenten ontwerpen en bouwen in verschillende lagen, volgens het principe van _Progressive Enhancement_. 
+
 
 
 ### UI componenten
