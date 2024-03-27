@@ -8,7 +8,7 @@ Ontwerp en bouw interfaces in lagen
 
 Deze deeltaak hoort bij sprint 9 "The Web is for Everyone". Dit is een deeltaak die je individueel uitvoert.
 
-In het college _S09W2-02-Progressive-Enhancent wordt behandeld wat Progressive Enhancement is.
+In het college _S09W2-02-Progressive-Enhancement wordt behandeld wat Progressive Enhancement is.
 
 Deze deeltaak hoort bij de leertaak:
 - [the-web-is-for-everyone-interactive-functionality](https://github.com/fdnd-task/the-web-is-for-everyone-interactive-functionality)
