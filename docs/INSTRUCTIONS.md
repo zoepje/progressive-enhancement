@@ -38,7 +38,7 @@ Progressive Enhancement is een _(coding) strategy_ waarmee je er voor kan zorgen
 
 ## Werkwijze
 
-Voor deze opdracht ga je een aantal UI componenten ontwerpen en bouwen in verschillende lagen, volgens het principe van _Progressive Enhancement_. 
+Voor deze opdracht ga je een aantal UI componenten ontwerpen, bouwen en testen in verschillende lagen, volgens het principe van _Progressive Enhancement_. 
 
 
 
