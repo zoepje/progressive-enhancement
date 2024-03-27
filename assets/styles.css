@@ -35,7 +35,7 @@ h1 {
 
 /* En als je een simpele button wilt, kun je deze class gebruiken */
 .fdnd-button {
-	padding: .3em .6em;
+	padding: 1em 3em;
 	border: 1px solid transparent;
 	border-radius: .5rem;
 	font-family: inherit;
