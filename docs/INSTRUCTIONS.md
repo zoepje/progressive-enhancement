@@ -2,7 +2,7 @@
 
 # Progressive Enhancement
 
-Ontwerp en bouw interfaces in lagen
+Ontwerp en bouw een website in lagen
 
 ## Context
 
