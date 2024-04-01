@@ -6,6 +6,29 @@
 		<link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
 		<link href="assets/styles.css" rel="stylesheet">
 		<style>
+			input{
+				field-sizing: content;
+			}
+
+			#favoriete-kleur{
+				position: relative;
+				z-index: 1;
+				width: 800px;
+				height: 300px;
+				color: #A675F5;
+				appearance: none;
+				border: none;
+				background-color: transparent;
+				border-radius: 1rem;
+			}
+
+			#favoriete-docent{
+				position: absolute;
+				z-index: 2;
+				top: 220px;
+				left: 300px;
+				margin: auto;
+			}
 			/* Schrijf hier gewoon je CSS voor dit component */
 
 			/* Hint: Dit component kun je volledig met HTML en CSS bouwen */
@@ -36,7 +59,7 @@
 			</datalist>
 
 			<label>
-				<input type="color" list="kleur" id="favoriete-kleur" name="favoriete-kleur">
+				<input type="color" list="kleur" id="favoriete-kleur" name="favoriete-kleur" value="#A675F5">
 			</label>
 			<datalist id="kleur">
 				<option value=#A675F5></option>
